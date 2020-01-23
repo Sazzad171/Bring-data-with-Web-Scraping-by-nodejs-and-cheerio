@@ -1,0 +1,5 @@
+cheerio.js	-> for nodejs web scraping
+
+npm init -y
+npm i cheerio request
+node file-name		-> for run file(on terminal)
